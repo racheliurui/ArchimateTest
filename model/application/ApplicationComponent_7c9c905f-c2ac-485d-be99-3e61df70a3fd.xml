@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EPF"
+    id="7c9c905f-c2ac-485d-be99-3e61df70a3fd">
+  <properties
+      key="ApplicationType"
+      value="Planning"/>
+</archimate:ApplicationComponent>

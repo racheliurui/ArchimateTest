@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BlastHole Sample Analysis Result"
+    id="6f525565-105f-47cc-9bd9-264ebbcf3c7b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dfe979ae-a9eb-4159-b54a-f6093795b15a.xml#dfe979ae-a9eb-4159-b54a-f6093795b15a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_7c9c905f-c2ac-485d-be99-3e61df70a3fd.xml#7c9c905f-c2ac-485d-be99-3e61df70a3fd"/>
+</archimate:FlowRelationship>

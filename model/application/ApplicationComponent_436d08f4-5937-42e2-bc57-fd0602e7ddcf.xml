@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo Bank"
+    id="436d08f4-5937-42e2-bc57-fd0602e7ddcf">
+  <properties
+      key="ApplicationType"
+      value="Geo Bank"/>
+</archimate:ApplicationComponent>

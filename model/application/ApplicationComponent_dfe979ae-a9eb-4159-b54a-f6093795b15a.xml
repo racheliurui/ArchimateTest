@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BV Labs"
+    id="dfe979ae-a9eb-4159-b54a-f6093795b15a">
+  <properties
+      key="ApplicationType"
+      value="LIMS"/>
+</archimate:ApplicationComponent>

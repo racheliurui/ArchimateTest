@@ -1,0 +1,17 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weekly mine planning cycle"
+    id="fa8df875-0823-4154-bd71-ca73839bceb9">
+  <properties
+      key="BusinessEvent-Frequency"
+      value="once a day"/>
+  <properties
+      key="BusinessEvent-MessageSize"
+      value="100m"/>
+  <properties
+      key="BusinessEvent-Protocol"
+      value="jdbc"/>
+  <properties
+      key="BusinessEvent-Schema"
+      value="http://b2mml/demo.xsd"/>
+</archimate:BusinessEvent>
